@@ -163,18 +163,19 @@ Alternativa open-source a Discord para streamers — voz y video con LiveKit, se
 
 ## GitHub stats
 
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=decatrondev&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=decatrondev&hide_border=true" width="48%" alt="GitHub streak" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=decatrondev&layout=compact&hide_border=true&langs_count=8" width="60%" alt="Top languages" />
-
-</div>
+<sub>Generadas por un GitHub Action propio (no un servicio externo) — se actualizan solas todos los días.</sub>
 
 <div align="center">
-<br>
+
+<img src="https://raw.githubusercontent.com/decatrondev/decatrondev/output/metrics.svg" width="100%" alt="GitHub stats" />
+
+<img src="https://raw.githubusercontent.com/decatrondev/decatrondev/output/metrics-languages.svg" width="48%" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/decatrondev/decatrondev/output/metrics-isocalendar.svg" width="48%" alt="Racha y calendario de contribuciones" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/decatrondev/decatrondev/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+
 </div>
 
 <br>
