@@ -5,9 +5,9 @@
 **Desarrollador Full-Stack** · Lima, Perú
 ### Software Developer · Lima, Peru
 
-Construyo el software que hace funcionar un negocio: facturación electrónica ante SUNAT, plataformas por suscripción y herramientas en tiempo real.
-<br>
-<sub>I build the software that makes a business run: government e-invoicing integrations, subscription platforms and real-time tools.</sub>
+<a href="https://anthonydeca.decatron.net">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=650&lines=Construyo+plataformas+SaaS+multi-tenant+y+herramientas+en+tiempo+real.;I+build+multi-tenant+SaaS+platforms+and+real-time+tools.;Del+servidor+a+la+web%2C+m%C3%B3vil+y+escritorio.;From+the+server+to+web%2C+mobile+and+desktop." alt="Typing SVG" />
+</a>
 
 [![Website](https://img.shields.io/badge/anthonydeca.decatron.net-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anthonydeca.decatron.net)
 [![Email](https://img.shields.io/badge/anthonydeca%40decatron.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonydeca@decatron.net)
@@ -36,6 +36,14 @@ Construyo el software que hace funcionar un negocio: facturación electrónica a
 
 <br>
 
+## Ahora mismo · Currently
+
+- 🚧 Construyendo **[Nexe](https://nexe.decatron.net)** — alternativa open-source a Discord para streamers, arquitectura de 6 microservicios en Go · *building an open-source Discord alternative for streamers*
+- 🍽️ Cerrando **OptimaPOS** al 90% — última milla antes de producción completa · *closing out the last stretch before full production*
+- 📚 Terminando la carrera de Tecnologías de la Información en **CIBERTEC** · *finishing my IT degree*
+
+<br>
+
 ## Proyectos destacados · Featured projects
 
 <table>
@@ -53,7 +61,7 @@ Plataforma multi-tenant para Twitch — bot de chat con lenguaje de scripting pr
 <td width="50%" valign="top">
 
 ### 🧾 [DecatronAPI](https://decatronapi.decatron.net)
-API de facturación electrónica peruana — consulta +17.9M de RUC de SUNAT, tipo de cambio en tiempo real de 20+ monedas y emisión de comprobantes electrónicos (XML UBL, firma digital, SOAP).
+API de datos e infraestructura para negocios — consulta masiva de padrones fiscales, tipo de cambio en tiempo real de 20+ monedas y emisión de comprobantes electrónicos (XML UBL, firma digital, envío por SOAP).
 
 `Node.js` `Express 5` `TypeScript` `PostgreSQL` `Prisma` `SOAP`
 
@@ -81,10 +89,20 @@ Alternativa open-source a Discord para streamers — voz y video con LiveKit, se
 </tr>
 </table>
 
+<br>
+
+### Otras herramientas en producción · Other tools in production
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [MedPlanner](https://medplanner.decatron.net) | Agendamiento de citas médicas con recordatorios automáticos | `Node.js` `React 19` `PostgreSQL` `PWA` |
+| [WebPlanner](https://webplanner.decatron.net) | Cotizador de proyectos web con exportación a PDF | `Node.js` `React` `PostgreSQL` `jsPDF` |
+| [KickDecatron](https://kick.decatron.net) | Bot de chat y moderación para la plataforma Kick | `ASP.NET Core` `React` `SignalR` |
+| [Twitch Dev Hub](https://twitch-dev-hub.decatron.net) | Suite de desarrollo sobre la API de Twitch (OAuth, EventSub) | `Node.js` `TypeScript` `Prisma` |
+| [Blobonix](https://playblobonix.decatron.net) | Juego 2D multijugador en el navegador, renderizado por GPU | `PixiJS` `Socket.IO` `Node.js` |
+
 <div align="center">
-
-Ver el resto de proyectos en producción → **[anthonydeca.decatron.net](https://anthonydeca.decatron.net)**
-
+<sub>Ver el detalle completo de cada proyecto → <a href="https://anthonydeca.decatron.net">anthonydeca.decatron.net</a></sub>
 </div>
 
 <br>
@@ -126,9 +144,20 @@ Ver el resto de proyectos en producción → **[anthonydeca.decatron.net](https:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Docker](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+
+<br>
+
+## Experiencia · Experience
+
+- **Analista y Soporte Informático** — Business Partner · marzo 2023 – actualidad
+  <br><sub>Respaldos y mantenimiento de SAP Business One y SAP HANA, informes técnicos periódicos.</sub>
+- **Soporte Informático** — EsSalud, Gerencia Central de TIC · 2024 – 2025
+  <br><sub>Mesa de ayuda institucional, diagnóstico técnico y despliegue de equipos a nivel nacional.</sub>
+- **Asistente de Informática** — Viceversa Consulting S.A. · 2014 – 2018
+  <br><sub>Configuración de redes, sistemas y capacitación a usuarios.</sub>
 
 <br>
 
@@ -136,15 +165,24 @@ Ver el resto de proyectos en producción → **[anthonydeca.decatron.net](https:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=decatrondev&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=decatrondev&hide_border=true" width="48%" alt="GitHub streak" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=decatrondev&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=decatrondev&hide_border=true" width="48%" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decatrondev&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=decatrondev&layout=compact&hide_border=true&langs_count=8" width="60%" alt="Top languages" />
 
+</div>
+
+<div align="center">
+<br>
+<img src="https://raw.githubusercontent.com/decatrondev/decatrondev/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
 </div>
 
 <br>
 
 <div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=decatrondev&style=flat-square&color=6366f1&label=visitas+al+perfil)
+
 <sub>Lima, Perú 🇵🇪 — <a href="https://anthonydeca.decatron.net">anthonydeca.decatron.net</a></sub>
+
 </div>
