@@ -6,8 +6,9 @@
 ### Software Developer · Lima, Peru
 
 <a href="https://anthonydeca.decatron.net">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=650&lines=Construyo+plataformas+SaaS+multi-tenant+y+herramientas+en+tiempo+real.;I+build+multi-tenant+SaaS+platforms+and+real-time+tools.;Del+servidor+a+la+web%2C+m%C3%B3vil+y+escritorio.;From+the+server+to+web%2C+mobile+and+desktop." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=800&lines=Construyo+plataformas+SaaS+multi-tenant+y+herramientas+en+tiempo+real.;I+build+multi-tenant+SaaS+platforms+and+real-time+tools.;Del+servidor+a+la+web%2C+m%C3%B3vil+y+escritorio.;From+the+server+to+web%2C+mobile+and+desktop." alt="Typing SVG" />
 </a>
+
 
 [![Website](https://img.shields.io/badge/anthonydeca.decatron.net-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anthonydeca.decatron.net)
 [![Email](https://img.shields.io/badge/anthonydeca%40decatron.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonydeca@decatron.net)
